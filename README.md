@@ -1,5 +1,8 @@
 # ITDS Final Project - Regression and Forecasting Analysis
 
+🔗 GitHub Repository: [https://github.com/Chen-ipynb/Introduction-of-Data-Science-Final-Project-2025.git](https://github.com/Chen-ipynb/Introduction-of-Data-Science-Final-Project-2025.git)
+
+
 This project presents a structured exploration of regression techniques applied to three key contexts: synthetic analytical functions, multivariate regression, and real-world time series forecasting. The work follows the assignment defined in the ITDS Final Project specification.
 
 
